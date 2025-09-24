@@ -1,0 +1,39 @@
+.azeret-mono-regular {
+  font-family: "Azeret Mono", monospace;
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 48px;
+    color: #0D1321;
+}
+
+
+.hero-content {
+  text-align: center;
+}
+
+.Header-p {
+    font-family: "Azeret Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+        color: #0D1321;
+        margin-left: 300px;
+        margin-right: 300px;
+        margin-top: 20px;
+        line-height: 26px;
+        text-align: center;
+}
+
+.Header-button {
+    font-family: "Azeret Mono", monospace;
+    font-weight: 196;
+    font-style: normal;
+    font-size: 16px;
+        color: white;
+        background-color: #0D1321;
+        border: none;
+        border-radius: 8px;
+        padding: 12px 24px;
+        margin-top: 20px;
+        cursor: pointer; 
+}
